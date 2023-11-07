@@ -17,12 +17,3 @@
 3. `print_banner_demo.py`
 
    Write a function `print_banner` that takes as input a message, and prints that message in the banner format from the previous assignment. Use it multiple times, then demonstrate changing the banner to use, e.g. asterisks.
-
-https://docs.python.org/2/library/functions.html
-
-for assignment: `max`, `min`, `pow`
-
-- largest/smallest of 3 numbers
-- power calculator (enter a number, and a power)
-- tip calculator (meal price, percent to leave)
-- shout and whisper functions
