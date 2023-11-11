@@ -1,6 +1,6 @@
 1. `flex_friday.py`
 
-    some user input thing with if / elif / else. Maybe they type in a grade and number of tardies, and they're told whether they're allowed to leave or not during Friday flex time. Although that doesn't really use elif...
+    To leave early on a flex friday, you must have no "D" or "F" grades, and no tardies for the week. Write a program that prompts the user twice: once for a letter grade, and once for a number of tardies. It should then indicate whether or not the student is eligible for early release.
 
 1. `returning_functions.py` - `is_valid_sat_score`
 
@@ -8,4 +8,6 @@
 
     In the file, demonstrate the function several times in a human readable way.
 
-1.
+1. `returning_functions.py` - `is_pythagorean_triple`
+
+    Write a function called `is_pythagorean_triple` that takes three integers as inputs, and returns `True` if they are a Pythagorean triple (satisfies a^2 + b^2 = c^2), and `False` otherwise. Note that the three integers provided as input may be in any order.
